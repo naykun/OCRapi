@@ -1,0 +1,9 @@
+*.pyc
+/checkpoints
+
+*.npy
+*.h5
+
+checkpoints/
+/__pycache__
+__pycache__/
